@@ -1,6 +1,6 @@
 # B.A.S.E
 Build an e-commerce site for college student or hosteller where they can sell or purchase any re-usable stuff like notes, books, bicycle etc. 
-Project Name - B.A.S.E ( Buy and Sell Everything).</br>
+<b><ul>Project Name</ul></b> - B.A.S.E ( Buy and Sell Everything).</br>
 Technology stack - HTML, CSS, javascript, php, MySQL, Xampp.
 </br></br></br>
 <h3> Some Screenshot of the project UI :- </h3>
