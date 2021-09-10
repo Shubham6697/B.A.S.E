@@ -11,6 +11,8 @@ Build an e-commerce site for college student or hosteller where they can sell or
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/50530172/99917760-57d61b00-2d38-11eb-8f85-7cc65589c85f.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/50530172/99917760-57d61b00-2d38-11eb-8f85-7cc65589c85f.png)
+![Screenshot (3)](https://github.com/Shubham6697/B.A.S.E/blob/main/Screenshots/Screenshot%20(258).png)
 
-![Screenshot (4)](https://user-images.githubusercontent.com/50530172/99917760-57d61b00-2d38-11eb-8f85-7cc65589c85f.png)
+![Screenshot (4)](https://github.com/Shubham6697/B.A.S.E/blob/8f79fa627e014db67f1a1e732554639212b4698c/Screenshots/Screenshot%20(14).png)
+
+![Screenshot (5)](https://github.com/Shubham6697/B.A.S.E/blob/main/Screenshots/Screenshot%20(259).png)
